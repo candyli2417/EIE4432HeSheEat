@@ -63,7 +63,7 @@ INSERT INTO `restaurant` (`Code`, `Name`, `Cuisine`, `District`, `Price`, `Weigh
 ('OqPC5Gd', 'Owariya', 'Japanese', 'Hung Hom', '$51-100', 5),
 ('I1Yn1S2', 'Pastaholic', 'Italian', 'Hung Hom', '$51-100', 5),
 (NULL, 'Pepper Lunch', 'Japanese', 'Whampoa', '$51-100', 5),
-(NULL, 'Pizza Hut', 'Italian', 'Whampoa', '$51-100', 5),
+('AHKWCw3', 'Pizza Hut', 'Italian', 'Whampoa', '$51-100', 5),
 ('WtPZmGE', 'Saizeiya WP', 'Italian', 'Whampoa', '<$50', 5),
 (NULL, 'Soup plus', 'Chinese', 'Whampoa', '$51-100', 5),
 ('qHsKktR', 'Sushi Daidai', 'Japanese', 'Hung Hom', '$51-100', 5),
